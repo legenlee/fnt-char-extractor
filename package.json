@@ -1,23 +1,26 @@
 {
   "name": "fnt-char-extractor",
   "version": "1.0.0",
-  "description": "A Node.js Minecraft launcher library",
+  "description": "Scripts for extracting character glyphs from fnt file.",
+  "author": "LegenLee <lsko1332@naver.com>",
+  "repository": "https://github.com/legenlee/fnt-char-extractor",
+  "main": "index.js",
+  "type": "module",
+  "private": false,
   "licenses": [
     {
       "type": "MIT"
-    },
+    }
   ],
   "files": [
     "index.js",
     "LICENSE",
     "README.md"
   ],
-  "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "sharp": "^0.32.1"
   },
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   }
