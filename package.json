@@ -1,0 +1,24 @@
+{
+  "name": "fnt-char-extractor",
+  "version": "1.0.0",
+  "description": "A Node.js Minecraft launcher library",
+  "licenses": [
+    {
+      "type": "MIT"
+    },
+  ],
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.32.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
