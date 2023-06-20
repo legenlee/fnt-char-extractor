@@ -20,8 +20,4 @@ And done! You can see extracted character glyphs in `./extractions` directory.
 
 # Third-party libraries
 
-- ([sharp](https://www.npmjs.com/package/sharp)) [Copyright 2013 Lovell Fuller and others.](https://www.apache.org/licenses/LICENSE-2.0.txt)
-
-```
-
-```
+- [sharp](https://www.npmjs.com/package/sharp): [Copyright 2013 Lovell Fuller and others.](https://www.apache.org/licenses/LICENSE-2.0.txt)
