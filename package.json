@@ -1,6 +1,6 @@
 {
   "name": "fnt-char-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scripts for extracting character glyphs from fnt file.",
   "author": "LegenLee <lsko1332@naver.com>",
   "repository": "https://github.com/legenlee/fnt-char-extractor",
